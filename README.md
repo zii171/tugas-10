@@ -50,7 +50,9 @@ tugas10/
 ## Cara Menjalankan
 ### 1. Buka file tugas 9 yang berisi backend 
 ```bash
-cd Tugas-9              
+download file tugas 9
+terus ekstrak filenya
+selanjutnya ke file tugas 9 dengan syntax cd Tugas-9 diterminal           
 Terus tambahkan app.enableCors ke main.ts 
 npm install
 npm run start:dev
